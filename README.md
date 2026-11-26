@@ -1,6 +1,6 @@
 # Pokémon Definitive HeartGold — édition française
 
-![Capture d’écran de Pokémon Definitive HeartGold en français](E128307B-B946-42D6-AE33-C21CCFBD76A0.PNG)
+<img src="E128307B-B946-42D6-AE33-C21CCFBD76A0.PNG" alt="Capture d’écran de Pokémon Definitive HeartGold en français" width="590">
 
 Un portage français non officiel du patch **Pokémon Definitive HeartGold**, préparé pour la ROM française de **Pokémon Version Or HeartGold**.
 
