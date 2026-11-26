@@ -13,6 +13,26 @@ Un portage français non officiel du patch **Pokémon Definitive HeartGold**, pr
 
 Les textes propres au hack ont été traduits automatiquement hors ligne. Ils n’ont pas été relus intégralement par un traducteur humain ; des formulations, noms ou retours à la ligne peuvent être imparfaits. Le jeu n’a pas encore été validé en entier sur émulateur ou console.
 
+## Fonctionnalités du hack original
+
+D’après la [présentation de BigNation sur PokéCommunity](https://www.pokecommunity.com/threads/pok%C3%A9mon-definitive-heartgold-complete.539556/), ce hack enrichit l’aventure de Johto et Kanto avec notamment :
+
+- **Confort de jeu :** Repousses réutilisables, CT infinies, CS oubliables, éclosion des œufs plus rapide, dégâts de poison supprimés hors combat, soins instantanés de l’équipe, capacités de niveau affichées et vérificateur IV/EV dans le résumé (bouton R).
+- **Évolutions facilitées :** évolutions par échange remplacées par une évolution au niveau 36, évolutions nécessitant un objet tenu déclenchées après un niveau, évolutions par amitié accélérées et nouvelles pierres d’évolution pour certaines espèces.
+- **Exploration et combats renouvelés :** rencontres sauvages diversifiées, équipes de Dresseurs remaniées et adaptées à la progression, CT offertes par les Coachs, et moins d’obstacles imposant l’usage de CS ou Flash.
+- **Contenu supplémentaire :** les 493 Pokémon sont capturables, avec de nouveaux événements de Pokémon fabuleux et légendaires, du contenu scénaristique en jeu et après la Ligue, ainsi que des nouveautés dans certaines zones.
+- **Difficulté rééquilibrée :** plus exigeante que la version originale, sans viser le niveau Kaizo/Drayano. Les statistiques, types et capacités des Pokémon restent inchangés selon la présentation du créateur.
+
+## Crédits
+
+- **BigNation** — création du hack original.
+- **AgentOcelot** — tests de jeu et aide à la conception.
+- **Fantafaust** — assistance au scripting.
+- **Yako?** et **Kalaay** — scripts et patches de scripts (crédit reproduit tel qu’affiché par le créateur).
+- **Kuha** — insertion de l’écran-titre.
+
+Ce portage français réutilise le travail de BigNation et des contributeurs ci-dessus. Il s’agit d’un projet de fans distinct, non officiel et non affilié aux auteurs du hack.
+
 ## Fichier à télécharger
 
 Rendez-vous dans [Releases](../../releases/latest) et téléchargez **Pokemon-Definitive-HeartGold-FR.xdelta**.
